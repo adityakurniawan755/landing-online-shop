@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito' sans-serif;
+}
+
+/* navbar */
+.navbar-brand{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 30px !important;
+}
+.nav-link{
+    margin-right: 20px;
+}
+.fa-mobile-alt{
+    font-size: 30px;
+    color: white;
+}
+
+/* sidebar */
+.row .list-group{
+    margin-top: 70px !important;
+    
+}
+.list-group .head{
+    color: white;
+}
+
+
+/* main bar */
+.carousel-inner{
+    margin-top: 71px;
+    margin-left: 15px;
+}
+.card{
+    margin: 20px;
+}
+#samsung{
+    margin-top: 50px;
+}
+
+
+/* footer */
+#footer{
+    background-color: green;
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+#footer p{
+    font-size: 15px;
+}
+
